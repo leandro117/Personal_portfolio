@@ -1,0 +1,45 @@
+/*Telas de 1100 pra cima */
+
+/*Seção para projetos*/
+
+section#projects {
+    height: 800px;
+}
+
+.project-tile {
+    width: 50%;
+    margin: auto;
+}
+
+.iframe {
+    width: 30%;
+    height: 400px;
+}
+
+.div-iframe {
+    background-color: black;
+    height: 60px;
+    width: 28.5%;
+    margin-left: 10px;
+}
+
+/*footer*/
+footer .titulos > h2 {
+    font-size: 5vw;
+}
+
+footer ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+footer .redes-sociais #rd1,  footer .redes-sociais #rd2{
+    margin: 0;
+}
+
+footer .consideracoes > p{
+    font-size: 1.5vw;
+    margin: 60px auto auto auto;
+}

@@ -26,20 +26,16 @@ section#projects {
 /*footer*/
 footer .titulos > h2 {
     font-size: 5vw;
+    margin-bottom: 20px;
 }
 
 footer ul{
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 
 footer .redes-sociais #rd1,  footer .redes-sociais #rd2{
-    margin: 0;
-}
-
-footer .consideracoes > p{
-    font-size: 1.5vw;
-    margin: 60px auto auto auto;
+    margin: 50px 0 0 0;
 }

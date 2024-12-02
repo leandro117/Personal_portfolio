@@ -3,7 +3,7 @@
 /*Seção para projetos*/
 
 section#projects {
-    height: 800px;
+    height: 1800px;
 }
 
 .project-tile {
@@ -11,14 +11,8 @@ section#projects {
     margin: auto;
 }
 
-.iframe {
-    width: 30%;
-    height: 400px;
-}
-
 .div-iframe {
     background-color: black;
-    height: 60px;
     width: 28.5%;
     margin-left: 10px;
 }

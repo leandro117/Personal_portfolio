@@ -1,0 +1,35 @@
+#navbar {
+    height: 62px;
+}
+
+#navbar ul > li > a{
+    font-size: 20px;
+}
+
+section#welcome-section h1{
+    font-size: 3rem;
+}
+
+section#welcome-section p{
+    font-size: 1.5rem;
+}
+
+footer .titulos > h2 {
+    font-size: 12vw;
+}
+
+footer .titulos > p {
+    font-size: 1.3rem;
+}
+
+footer .titulos {
+    margin: auto;
+    width: 70%;
+}
+
+footer ul{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
